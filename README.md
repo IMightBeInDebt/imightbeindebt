@@ -1,16 +1,27 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=300&color=gradient&text=%20IMightBeInDebt%20&reversal=false&section=header&textBg=true&fontAlign=50&animation=fadeIn" />
+</p>
 
-<!--
-**IMightBeInDebt/imightbeindebt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## hello, im IMightBeInDebt 
+> i code and that's about it
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## stuff that im working on
+
+### [NetworkedMonoSandbox](https://github.com/IMightBeInDebt/NetworkedMonoSandbox/#imightbeindebts-networked-monosandbox)
+
+> this is my ***"revolutionary mod"*** that i've been working on and it
+> is designed to make gorilla tag fun again with friends
+
+---
+
+## and that wraps it up
+
+> man i really hope one day my mod becomes famous a-
+> 
+> why are you still here
+
+---
